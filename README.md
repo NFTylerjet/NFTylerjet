@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NFTylerjet this is my github for my NFT coding project, and possibly nft contracts in the future.
+- My main github account is [@MrTylerjet](https://github.com/Tylerjet)
+- If my tools help and you feel the need/want to tip: mrtylerjet.eth
